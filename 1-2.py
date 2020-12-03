@@ -220,4 +220,4 @@ while nums[l] + nums[m] + nums[h] != 2020:
         h = len(nums) - 1
 
 a = nums[l] * nums[m] * nums[h]
-print('answer: {}'.format(a))
+print(a)

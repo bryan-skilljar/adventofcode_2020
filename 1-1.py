@@ -213,4 +213,4 @@ while nums[l] + nums[h] != 2020:
         l += 1
 
 a = nums[l] * nums[h]
-print('answer: {}'.format(a))
+print(a)
